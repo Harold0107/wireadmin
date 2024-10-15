@@ -136,6 +136,3 @@ on [GitHub](https://github.com/wireadmin/wireadmin)
 
 Thanks again for your support, it is much appreciated! 🙏
 
-## License
-
-[GPL-3.0](/LICENSE) © [Shahrad Elahi](https://github.com/shahradelahi)
